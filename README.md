@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CeltyNour
-- 👀 I’m interested in ... don't know yet
+- 👋 Hiiiiiiii je suis @CeltyNour
 - 🌱 I’m currently learning everything all at once
-- 💞️ I’m looking to collaborate on who knows what
 - 📫 How to reach me? - please don't. Unless it's an urgency.
 
 <!---
